@@ -6,8 +6,7 @@
 
 ## About the Game
 
-You wake up in a mysterious neon maze.  There are no clear instructions — only paths, lights, arrows, and moving threats. Use your instincts, your minimap, and your eyes to escape before it's too late. Enemies move on fixed patrol routes. If they spot you, it's game over.  
-Directional arrows may help... or lead you into trouble. Stay alert!Designed for Meta Quest and XR-compatible headsets.
+You wake up in a mysterious neon maze.  There are no clear instructions — only paths, lights, arrows, and moving threats. Use your instincts, your minimap, and your eyes to escape before it's too late. Robots move on fixed patrol routes. If they spot you, it's game over. Directional arrows may help... or lead you into trouble. Stay alert!Designed for Meta Quest and XR-compatible headsets.
 
 
 ## Key Features
