@@ -1,4 +1,4 @@
-# VRMazeEscape 🌀
+# VRMazeEscape 
 
 **VRMazeEscape** is a first-person virtual reality maze game made with Unity. You explore a glowing digital maze, avoid patrolling enemies, and try to find your way out — all from within a fully immersive VR environment.
 
